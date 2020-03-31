@@ -1,2 +1,2 @@
-# hmdpublicum-gmail.com
-Smart Mobility Curated List
+# Smart Mobility Curated List
+https://github.com/ocpi/ocpi
